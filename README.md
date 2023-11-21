@@ -42,9 +42,9 @@
                       <footer>
 <p>ігри можна купити тут:</p>
 <nav>
-<a href="">350грн</a>
-<a href="">450грн</a>
-<a href="">2200грн</a>
+<a href="https://github.com/viteu/350-#readme">350грн</a>
+<a href="https://github.com/viteu/450-/commit/6848ab876aab9cb1bf73d12ac3509868a6bf73c0">450грн</a>
+<a href="https://github.com/viteu/2200-/commit/316231850c819e890785cc0ff02f2302b24ba8a2">2200грн</a>
 </nav>
                       </footer>
     </body>
