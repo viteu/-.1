@@ -1,13 +1,15 @@
 .nastolka {
     color: brown;
-    border-bottom: 2px solid navy;
+    border: 2px solid navy;
+    border-radius: 10px;
     text-align: center;
     background-color: lightgreen;
 }
 
 .fishki {
-    width: 200px;
-    height: 400px;
+    width: 400px;
+    height: 200px;
+    padding: 15px 0px 0px 0px;
 }
 
 td {
@@ -21,10 +23,20 @@ th {
     color: navy;
 }
 
+nav{
+    text-align: center;
+    border: 2px dotted red;
+    border-radius: 30px;
+    margin-left: 70px;
+    margin-right: 70px;
+    background-color: yellow;
+}
+
 main {
     border: 3px solid brown;
     border-radius: 10px;
-    padding: 10px; 
+    padding: 10px 0px 10px 15px;
+    background-color: lightsalmon;
 }
 
 a {
@@ -36,6 +48,101 @@ a {
     border-radius: 10px;
     padding: 5 px;
 }
+
 p {
     font-size: 20px;
+}
+
+h1 {
+    text-transform: uppercase;
+}
+
+ul {
+    list-style: square ;
+}
+
+span {
+    background-color: aqua;
+    color: black;
+}
+
+.a {
+   background-color: blueviolet;
+   color: black;
+   display: flex;
+   justify-content: space-around;
+}
+
+.d {
+background-color:chartreuse ;
+color: black;
+display: flex;
+   justify-content: space-around;
+}
+
+.g {
+background-color: royalblue;
+color: black;
+display: flex;
+   justify-content: space-around;
+}
+
+.b {
+    background-color: darkkhaki;
+color: black;
+display: flex;
+   justify-content: space-around;
+}
+
+.m {
+background-color: floralwhite;
+color: black;
+display: flex;
+   justify-content: space-around;
+}
+
+.h {
+background-color: hotpink;
+color: black;
+display: flex;
+   justify-content: space-around;
+}
+
+.p {
+background-color: aquamarine;
+color: black;
+display: flex;
+   justify-content: space-around;
+}
+
+section {
+    background-color: lightseagreen;
+    border: 2px solid darkgreen;
+}
+
+article {
+    border: 2px double yellow;
+    width: 650px;
+    height: 517px;
+    margin: 25px;
+}
+
+.first {
+    width: 650px;
+    height: 500px;
+}
+
+.end {
+    text-align: center;
+    border: 2px solid teal;
+    border-radius: 30px;
+    background-color: lightblue;
+}
+
+.egg {
+    text-align: center;
+    border: 2px solid purple;
+    border-radius: 30px;
+    background-color: lightcoral;
+    margin: 40px;
 }
